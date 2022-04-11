@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>otus-css-galkin</title>
 </head>
 <body>
 <h1><strong>Название проекта</strong></h1>
